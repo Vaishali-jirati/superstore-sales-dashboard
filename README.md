@@ -20,7 +20,7 @@ Microsoft Excel (PivotTables, PivotCharts, Slicers)
 ## Key Insights
 - West region had the highest sales
 - Technology was the top category
-- (add your own insight)
+  
 
 ## Screenshot
-![Dashboard](final dashboard.png)
+![Dashboard](final_dashboard.png)
